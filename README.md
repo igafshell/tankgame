@@ -15,8 +15,11 @@ A promising but unfinished side project I built 2 yrs ago.
 ## Controls
 
 awsd - movement player one
+
 arrow keys - movement player two
+
 shift - shoot
+
 esc - toggle pause in game
 
 ## Run
